@@ -41,8 +41,8 @@
   },
   "dependencies": {
     "jsonc-parser": "^3.2.1",
-    "minimatch": "^10.2.3",
-    "yaml": "^2.8.3"
+    "minimatch": "^10.2.4",
+    "yaml": "^2.8.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
